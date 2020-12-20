@@ -1,13 +1,13 @@
-#CSC207H1F 20209 Project 
+#MeetApp
 ###Phase 2
 ######December 7, 2020
 
-####group 0162
+####Members
+Fenil Patel\
 Adam Paslawski\
 Chelsea Mitchell\
 Warren Liu\
 Insung Youn\
-Fenil Patel\
 Zexi Lv\
 Daniel Dizon
 
@@ -56,21 +56,4 @@ enforce dependency rules and invert when necessary.
 not overcomplicate the code or provide for 
 useless functionality.
 
-#### Final Notes:
 Happy exploring!
-
-No, honestly, have fun with our code! And if you're feeling generous,
-please feel free to award us in a numerical manner xD
-
-This project has been a fun challenge. A lot of work, but in the end, we persevered
-and eliminated the issues plaguing us in phase 1. This has been countless hours of work,
-figuring out design patterns. We would like to thank 
-all of the team, Shiva (our wonderful TA who's helped us through hell and back), and Lindsey and Jonathan 
-for helping us develop these skills!
-
-120 files, and a metric ton of classes later... 
-
-Woohoo! Great Success! 
-
-Yours Truly, \
-Group 0162
