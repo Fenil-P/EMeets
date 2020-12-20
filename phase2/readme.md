@@ -1,8 +1,10 @@
-#MeetApp
-###Phase 2
-######December 7, 2020
+# MeetApp
 
-####Members
+### Phase 2
+
+###### December 7, 2020
+
+#### Members
 Fenil Patel\
 Adam Paslawski\
 Chelsea Mitchell\
